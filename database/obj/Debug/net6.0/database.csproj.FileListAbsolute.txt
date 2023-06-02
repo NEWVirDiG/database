@@ -1,0 +1,15 @@
+D:\ИСП21.1А\Девяткин и Влад\database\bin\Debug\net6.0\database.exe
+D:\ИСП21.1А\Девяткин и Влад\database\bin\Debug\net6.0\database.deps.json
+D:\ИСП21.1А\Девяткин и Влад\database\bin\Debug\net6.0\database.runtimeconfig.json
+D:\ИСП21.1А\Девяткин и Влад\database\bin\Debug\net6.0\database.dll
+D:\ИСП21.1А\Девяткин и Влад\database\bin\Debug\net6.0\database.pdb
+D:\ИСП21.1А\Девяткин и Влад\database\obj\Debug\net6.0\database.csproj.AssemblyReference.cache
+D:\ИСП21.1А\Девяткин и Влад\database\obj\Debug\net6.0\database.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИСП21.1А\Девяткин и Влад\database\obj\Debug\net6.0\database.AssemblyInfoInputs.cache
+D:\ИСП21.1А\Девяткин и Влад\database\obj\Debug\net6.0\database.AssemblyInfo.cs
+D:\ИСП21.1А\Девяткин и Влад\database\obj\Debug\net6.0\database.csproj.CoreCompileInputs.cache
+D:\ИСП21.1А\Девяткин и Влад\database\obj\Debug\net6.0\database.dll
+D:\ИСП21.1А\Девяткин и Влад\database\obj\Debug\net6.0\refint\database.dll
+D:\ИСП21.1А\Девяткин и Влад\database\obj\Debug\net6.0\database.pdb
+D:\ИСП21.1А\Девяткин и Влад\database\obj\Debug\net6.0\database.genruntimeconfig.cache
+D:\ИСП21.1А\Девяткин и Влад\database\obj\Debug\net6.0\ref\database.dll
